@@ -1,4 +1,4 @@
-### 👋 ¡Hola! Soy Luis Insfrán
+### 👋 ¡Hola! Soy Leandro Insfrán
 
 Desarrollador full-stack apasionado por crear soluciones digitales efectivas y experiencias de usuario intuitivas. Me especializo en el desarrollo web con tecnologías modernas tanto del lado del cliente como del servidor.
 
@@ -28,19 +28,11 @@ Desarrollador full-stack apasionado por crear soluciones digitales efectivas y e
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=L-insfran&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-insfran&layout=compact&theme=radical" width="48%"/>
-</p>
-
----
 
 ### 📫 ¿Dónde encontrarme?
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-usuario/)  
-- 🌐 [Portafolio Web](https://tusitio.com) *(opcional)*
-- ✉️ luis.insfran@email.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/leandro-insfran-488409169/)  
+
+- ✉️ leandro.insfran@email.com
 
 ---
